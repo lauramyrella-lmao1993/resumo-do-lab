@@ -1,4 +1,4 @@
-# resumo-do-lab
+# resumo-do-lab AZ-900 
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO"
 AZ-900: Conceitos básicos do Microsoft Azure 》 Nivelar Cloud = Entrada
 Computação em nuvem: Criar conta Azure 》55 serviços  gratuitos  (12meses); USD$ 200 créditos Azure;
